@@ -1,6 +1,6 @@
 # gamos-journal
 
-Brazilian Journal of Systems Analysis, Modeling and Optimization
+Journal of Systems Analysis, Modeling and Optimization (GAMOS preprints)
 
 Important: Copies and distributions of the files made available in this directory must comply with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License.
 
