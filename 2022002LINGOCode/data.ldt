@@ -1,0 +1,61 @@
+! days;
+
+D1 D2 ~
+
+! shifts;
+
+T1 T2 T3 ~
+
+! locals;
+
+ETA R1 R2 R3 R4 R5 S1 S2 S3 S4 S5 S6 ~
+
+! reservoirs;
+
+6 ~
+
+! housing coefficient;
+
+3.9 ~
+
+! average daily consumption per inhabitant (liters);
+
+200 ~
+
+! time per shift (hour);
+
+8 ~
+
+! households by zone;
+
+5431 1043 976 459 1538 135 ~
+
+! distribution network;
+
+0 1 0 0 0 0 0 0 0 0 0 0
+0 0 1 1 1 1 1 0 0 0 0 0
+0 0 0 0 0 0 0 1 1 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 1 ~
+
+! outflow rate (liters/hour);
+
+367200.00, 288000.00, , , , , , , , , , ~
+
+! zones average capacity (liters);
+
+1000, 1000, 1000, 1000, 1000, 1000 ~
+
+! reservoir capacity (liters);
+
+2500000000.00, 500000000.00, 400000000.00, 100000000.00, 180000000.00, 20000000.00, , , , , , ~
+
+
+
+
+
+
+
+
+
