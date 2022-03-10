@@ -1,6 +1,6 @@
 # gamos-journal
 
-Journal of Systems Analysis, Modeling and Optimization (GAMOS preprints)
+Journal of Systems Analysis, Modeling and Optimization (GAMOS preprints and codes).
 
 Important: Copies and distributions of the files made available in this directory must comply with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License.
 
