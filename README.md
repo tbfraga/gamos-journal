@@ -4,6 +4,8 @@ The material that was available in this directory has been moved to other folder
 
 To find some published material, consult the directory at https://github.com/tbfraga/gamos-disclosure. 
 
+LINGO, C++ and other codes are available at https://github.com/tbfraga/COPSolver.
+
 If you are curious to see the work in progress, visit the directory at https://github.com/tbfraga/publishing.
 
 Journal of Systems Analysis, Modeling and Optimization (GAMOS preprints and codes).
